@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1>
-<h3 align="center">Computer Science & Engineering Student | Problem Solver | DSA Enthusiast</h3>
+<h3 align="center">Computer Science & Engineering Student | Problem Solver</h3>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;DSA+Enthusiast;Backend+Developer;Building+Real+World+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=F7C51D&center=true&vCenter=true&width=500&lines=👋+Hello+World!;DSA+Enthusiast;Backend+Developer;Building+Real+World+Projects;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
