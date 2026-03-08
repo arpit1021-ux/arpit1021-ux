@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1>
-<h3 align="center">Computer Science & Engineering Student | Problem Solver</h3>
+<h3 align="center">Computer Science & Engineering Student</h3>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Arpit.;💻+CSE+Student.;🧠+DSA+Enthusiast.;👨🏻‍💻+Backend+Developer.)](https://github.com/arpit1021-ux)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=435&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Ciao%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hola%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Bonjour%2C+World!+%2F+%3E)](https://github.com/arpit1021-ux)
 
 </div>
+
+### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Arpit.;💻+A+Software+Developer+,+Student.;👨🏻‍💻+Full+Stack+Developer.)](https://github.com/arpit1021-ux)
 
 ---
 
@@ -14,8 +16,7 @@
 - 💻 CSE Student passionate about **Problem Solving & Software Development**
 - 🧠 Currently focused on **Data Structures & Algorithms**
 - 🔭 Working on **full-stack applications and automation tools**
-- 🌱 Learning **System Design, Backend Development, and ML basics**
-- ⚡ Interested in **AI, Backend Systems, and IoT Projects**
+- 🌱 Learning **System Design, Full Stack Development, and ML basics**
 
 ---
 
