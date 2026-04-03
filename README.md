@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 💻 CSE Student passionate about **Problem Solving & Software Development**
+- 💻 CCE Student passionate about **Problem Solving & Software Development**
 - 🧠 Currently focused on **Data Structures & Algorithms**
 - 🔭 Working on **full-stack applications and automation tools**
 - 🌱 Learning **System Design, Full Stack Development, and ML basics**
